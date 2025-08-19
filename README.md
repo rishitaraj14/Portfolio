@@ -21,7 +21,7 @@ Welcome to my personal portfolio website! This responsive website showcases my s
 
 ## 🌐 Live Demo
 
-Check out the live version: [https://my-static-site-2024.windsurf.build](https://my-static-site-2024.windsurf.build)
+Check out the live version: [https://my-static-site-2024.windsurf.build](https://my-static-site-2024.windsurf.build/)
 
 ## 📁 Project Structure
 
